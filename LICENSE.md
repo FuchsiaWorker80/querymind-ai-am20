@@ -1,4 +1,4 @@
-# 
+# Premium QueryMind configuration. Téléchargez et installez avec GUI disponible et faible utilisation du CPU — rapide, sécurisé et facile à utiliser.
 
 
 
